@@ -1,0 +1,14 @@
+---
+id: 208
+title: Augmenting Conversations Using Dual Purpose Speech
+date: 2004-10-03T14:00:00+00:00
+author: Steve Cassidy
+layout: post
+guid: http://www.ics.mq.edu.au/~cassidy/wordpress/?p=208
+permalink: /2004/10/augmenting-conversations-using-dual-purpose-speech/
+categories:
+  - Uncategorized
+---
+ [Augmenting Conversations Using Dual Purpose Speech](http://www.cc.gatech.edu/ccg/publications/dp-uist.pdf) Kent Lyons, Christopher Skeels, Thad Starner Cornelis M. Snoeck, Benjamin A. Wong, Daniel Ashbrook College of Computing and GVU Center Georgia Institute of Technology.
+
+> In this paper, we explore the concept of dual purpose speech: speech that is socially appropriate in the context of a human to human conversation which also provides meaningful input to a computer. We motivate the use of dual purpose speech and explore issues of privacy and technological challenges related to mobile speech recognition. We present three applications that utilize dual purpose speech to assist a user in conversational tasks: the Calendar Navigator Agent, DialogTabs, and Speech Courier. The Calendar Navigator Agent navigates a user s calendar based on socially appropriate speech used while scheduling appointments. DialogTabs allows a user to postpone cognitive processing of conversational material by proving short term capture of transient information. Finally, Speech Courier allows asynchronous delivery of relevant conversational information to a third party.

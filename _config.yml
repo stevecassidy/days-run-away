@@ -1,0 +1,23 @@
+url: http://localhost:8080
+name: stevecassidy
+title: Steve Cassidy
+description: The Days Run Away...
+header_pages:
+  - about-steve-cassidy.md
+  - prospective-phd-students.md
+  - publications.md
+
+theme: minima
+
+# https://github.com/thelehhman/plainwhite-jekyll
+plainwhite:
+  name: Steve Cassidy
+  tagline: Academic
+  date_format: "%b %-d, %Y"
+
+  social_links:
+    twitter: SteveCassidyMQ
+    github:  stevecassidy
+    linkedIn: in/steve-cassidy-812100141
+
+show_excerpts: true
