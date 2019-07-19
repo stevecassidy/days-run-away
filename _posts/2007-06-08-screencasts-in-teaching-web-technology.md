@@ -3,7 +3,7 @@ id: 263
 title: Screencasts in Teaching Web Technology
 date: 2007-06-08T23:58:40+00:00
 author: Steve Cassidy
-layout: post
+layout: single
 guid: http://www.ics.mq.edu.au/~cassidy/index.php/2007/06/08/screencasts-in-teaching-web-technology/
 permalink: /2007/06/screencasts-in-teaching-web-technology/
 categories:

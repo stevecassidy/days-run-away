@@ -3,7 +3,7 @@ id: 540
 title: 'Teacher Professional Development: Building Web Apps'
 date: 2019-07-11T10:28:59+00:00
 author: Steve Cassidy
-layout: post
+layout: single
 permalink: /2019/07/teacher-professional-development-building-web-apps/
 categories:
   - Teaching

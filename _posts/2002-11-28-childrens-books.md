@@ -3,7 +3,7 @@ id: 235
 title: Children's Books
 date: 2002-11-28T13:00:00+00:00
 author: Steve Cassidy
-layout: post
+layout: single
 guid: http://www.ics.mq.edu.au/~cassidy/wordpress/?p=235
 permalink: /2002/11/childrens-books/
 categories:

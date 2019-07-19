@@ -3,7 +3,7 @@ id: 207
 title: Gnowsis and RDF Desktop Systems
 date: 2004-11-04T13:00:00+00:00
 author: Steve Cassidy
-layout: post
+layout: single
 guid: http://www.ics.mq.edu.au/~cassidy/wordpress/?p=207
 permalink: /2004/11/gnowsis-and-rdf-desktop-systems/
 categories:

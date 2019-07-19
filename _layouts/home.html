@@ -1,0 +1,9 @@
+---
+layout: archive
+---
+
+{{ content }}
+
+{% for post in site.posts limit:4 %}
+  {% include archive-single.html %}
+{% endfor %}

@@ -3,7 +3,7 @@ id: 219
 title: Atom REST API
 date: 2003-08-24T14:00:00+00:00
 author: Steve Cassidy
-layout: post
+layout: single
 guid: http://www.ics.mq.edu.au/~cassidy/wordpress/?p=219
 permalink: /2003/08/atom-rest-api/
 categories:

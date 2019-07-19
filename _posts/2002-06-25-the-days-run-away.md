@@ -3,7 +3,7 @@ id: 248
 title: 'The days run away...'
 date: 2002-06-25T14:00:00+00:00
 author: Steve Cassidy
-layout: post
+layout: single
 guid: http://www.ics.mq.edu.au/~cassidy/wordpress/?p=248
 permalink: /2002/06/the-days-run-away/
 categories:

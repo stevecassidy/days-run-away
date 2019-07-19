@@ -3,7 +3,7 @@ id: 212
 title: SpeechBot
 date: 2004-05-24T14:00:00+00:00
 author: Steve Cassidy
-layout: post
+layout: single
 guid: http://www.ics.mq.edu.au/~cassidy/wordpress/?p=212
 permalink: /2004/05/speechbot/
 categories:

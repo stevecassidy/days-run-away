@@ -3,7 +3,7 @@ id: 214
 title: More RDF Query/Path Stuff
 date: 2003-11-10T13:00:00+00:00
 author: Steve Cassidy
-layout: post
+layout: single
 guid: http://www.ics.mq.edu.au/~cassidy/wordpress/?p=214
 permalink: /2003/11/more-rdf-querypath-stuff/
 categories:

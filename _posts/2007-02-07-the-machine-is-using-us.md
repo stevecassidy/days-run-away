@@ -3,7 +3,7 @@ id: 260
 title: The Machine is Us/ing Us
 date: 2007-02-07T21:03:43+00:00
 author: Steve Cassidy
-layout: post
+layout: single
 guid: http://www.ics.mq.edu.au/~cassidy/index.php/2007/02/07/the-machine-is-using-us/
 permalink: /2007/02/the-machine-is-using-us/
 categories:

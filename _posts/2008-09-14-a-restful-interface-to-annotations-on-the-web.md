@@ -3,7 +3,7 @@ id: 271
 title: A RESTful interface to Annotations on the Web
 date: 2008-09-14T22:22:36+00:00
 author: Steve Cassidy
-layout: post
+layout: single
 guid: http://www.ics.mq.edu.au/~cassidy/?p=271
 permalink: /2008/09/a-restful-interface-to-annotations-on-the-web/
 categories:

@@ -3,7 +3,7 @@ id: 211
 title: Putting Page Numbers in PDF
 date: 2004-06-29T14:00:00+00:00
 author: Steve Cassidy
-layout: post
+layout: single
 guid: http://www.ics.mq.edu.au/~cassidy/wordpress/?p=211
 permalink: /2004/06/putting-page-numbers-in-pdf/
 categories:

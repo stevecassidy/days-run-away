@@ -3,7 +3,7 @@ id: 298
 title: Ingesting the Auslan Corpus into the DADA Annotation Store
 date: 2010-02-22T13:48:48+00:00
 author: Steve Cassidy
-layout: post
+layout: single
 guid: http://web.science.mq.edu.au/~cassidy/wordpress/?p=298
 permalink: /2010/02/ingesting-the-auslan-corpus-into-the-dada-annotation-store/
 categories:

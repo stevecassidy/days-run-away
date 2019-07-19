@@ -3,7 +3,7 @@ id: 250
 title: About Me
 date: 2006-05-24T14:06:29+00:00
 author: Steve Cassidy
-layout: page
+layout: single
 ---
 I&#8217;m an Associate Professor in the [Computing Department](http://www.comp.mq.edu.au/) at [Macquarie University](http://www.mq.edu.au/), affiliated with the [Centre for Language Technology](http://www.clt.mq.edu.au/).
 

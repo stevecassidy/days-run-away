@@ -3,7 +3,7 @@ id: 254
 title: Speaker Tracking In Meetings
 date: 2006-07-18T22:59:47+00:00
 author: Steve Cassidy
-layout: post
+layout: single
 guid: http://www.ics.mq.edu.au/~cassidy/index.php/?p=254
 permalink: /2006/07/speaker-tracking-in-meetings/
 categories:

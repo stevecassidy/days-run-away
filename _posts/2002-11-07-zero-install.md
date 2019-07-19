@@ -3,7 +3,7 @@ id: 238
 title: Zero Install
 date: 2002-11-07T13:00:00+00:00
 author: Steve Cassidy
-layout: post
+layout: single
 guid: http://www.ics.mq.edu.au/~cassidy/wordpress/?p=238
 permalink: /2002/11/zero-install/
 categories:

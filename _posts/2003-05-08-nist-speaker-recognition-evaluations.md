@@ -3,7 +3,7 @@ id: 229
 title: 'NIST Speaker Recognition  Evaluations'
 date: 2003-05-08T14:00:00+00:00
 author: Steve Cassidy
-layout: post
+layout: single
 guid: http://www.ics.mq.edu.au/~cassidy/wordpress/?p=229
 permalink: /2003/05/nist-speaker-recognition-evaluations/
 categories:

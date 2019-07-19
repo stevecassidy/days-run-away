@@ -3,7 +3,7 @@ id: 458
 title: Mobile Apps for Aboriginal Languages
 date: 2016-10-05T03:44:29+00:00
 author: Steve Cassidy
-layout: post
+layout: single
 guid: http://web.science.mq.edu.au/~cassidy/?p=458
 permalink: /2016/10/mobile-apps-for-aboriginal-languages/
 wpd3-458-0:

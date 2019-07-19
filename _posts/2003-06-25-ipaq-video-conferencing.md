@@ -3,7 +3,7 @@ id: 225
 title: IPAQ Video Conferencing
 date: 2003-06-25T14:00:00+00:00
 author: Steve Cassidy
-layout: post
+layout: single
 guid: http://www.ics.mq.edu.au/~cassidy/wordpress/?p=225
 permalink: /2003/06/ipaq-video-conferencing/
 categories:

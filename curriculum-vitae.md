@@ -3,8 +3,7 @@ id: 259
 title: Curriculum Vitae
 date: 2006-09-11T22:45:17+00:00
 author: Steve Cassidy
-excerpt: |
-layout: page
+layout: single
 guid: http://www.ics.mq.edu.au/~cassidy/index.php/curriculum-vitae/
 ---
 # Stephen Cassidy

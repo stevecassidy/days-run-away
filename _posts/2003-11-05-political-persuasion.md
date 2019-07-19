@@ -3,7 +3,7 @@ id: 215
 title: Political Persuasion
 date: 2003-11-05T13:00:00+00:00
 author: Steve Cassidy
-layout: post
+layout: single
 guid: http://www.ics.mq.edu.au/~cassidy/wordpress/?p=215
 permalink: /2003/11/political-persuasion/
 categories:

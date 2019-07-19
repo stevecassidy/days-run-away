@@ -3,7 +3,7 @@ id: 220
 title: 'Extreme Markup 2003: Day 4'
 date: 2003-07-31T14:00:00+00:00
 author: Steve Cassidy
-layout: post
+layout: single
 guid: http://www.ics.mq.edu.au/~cassidy/wordpress/?p=220
 permalink: /2003/07/extreme-markup-2003-day-4/
 categories:

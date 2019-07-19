@@ -3,7 +3,7 @@ id: 522
 title: Amplifying Amplify
 date: 2018-04-06T14:41:26+00:00
 author: Steve Cassidy
-layout: post
+layout: single
 guid: http://web.science.mq.edu.au/~cassidy/?p=522
 permalink: /2018/04/amplifying-amplify/
 categories:

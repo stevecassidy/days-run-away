@@ -3,7 +3,7 @@ id: 474
 title: A Galaxy Workflow for Acoustic Phonetic Analysis
 date: 2016-10-18T04:46:53+00:00
 author: Steve Cassidy
-layout: post
+layout: single
 guid: http://web.science.mq.edu.au/~cassidy/?p=474
 permalink: /2016/10/a-galaxy-workflow-for-acoustic-phonetic-analysis/
 image: /wp-content/uploads/2016/10/vowel-plot-workflow-1568x740.png

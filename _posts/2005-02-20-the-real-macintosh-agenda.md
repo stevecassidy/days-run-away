@@ -3,7 +3,7 @@ id: 203
 title: 'The Real Macintosh Agenda...'
 date: 2005-02-20T13:00:00+00:00
 author: Steve Cassidy
-layout: post
+layout: single
 guid: http://www.ics.mq.edu.au/~cassidy/wordpress/?p=203
 permalink: /2005/02/the-real-macintosh-agenda/
 categories:

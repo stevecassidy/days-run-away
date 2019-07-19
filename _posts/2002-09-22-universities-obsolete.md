@@ -3,7 +3,7 @@ id: 240
 title: Universities obsolete?
 date: 2002-09-22T14:00:00+00:00
 author: Steve Cassidy
-layout: post
+layout: single
 guid: http://www.ics.mq.edu.au/~cassidy/wordpress/?p=240
 permalink: /2002/09/universities-obsolete/
 categories:

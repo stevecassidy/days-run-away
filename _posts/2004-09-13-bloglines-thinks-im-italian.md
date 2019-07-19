@@ -3,7 +3,7 @@ id: 209
 title: Bloglines Thinks I'm Italian
 date: 2004-09-13T14:00:00+00:00
 author: Steve Cassidy
-layout: post
+layout: single
 guid: http://www.ics.mq.edu.au/~cassidy/wordpress/?p=209
 permalink: /2004/09/bloglines-thinks-im-italian/
 categories:

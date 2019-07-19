@@ -3,7 +3,7 @@ id: 264
 title: Version Control for RDF Triple Stores
 date: 2007-09-03T09:43:18+00:00
 author: Steve Cassidy
-layout: post
+layout: single
 guid: http://www.ics.mq.edu.au/~cassidy/index.php/2007/09/03/version-control-for-rdf-triple-stores/
 permalink: /2007/09/version-control-for-rdf-triple-stores/
 categories:

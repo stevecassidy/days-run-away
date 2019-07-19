@@ -3,7 +3,7 @@ id: 231
 title: Tim Bray on Good Web Citizenship
 date: 2003-05-01T14:00:00+00:00
 author: Steve Cassidy
-layout: post
+layout: single
 guid: http://www.ics.mq.edu.au/~cassidy/wordpress/?p=231
 permalink: /2003/05/tim-bray-on-good-web-citizenship/
 categories:

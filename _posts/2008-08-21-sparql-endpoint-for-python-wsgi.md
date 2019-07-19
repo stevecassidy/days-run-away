@@ -3,7 +3,7 @@ id: 269
 title: Sparql Endpoint for Python WSGI
 date: 2008-08-21T22:07:14+00:00
 author: Steve Cassidy
-layout: post
+layout: single
 guid: http://www.ics.mq.edu.au/~cassidy/?p=269
 permalink: /2008/08/sparql-endpoint-for-python-wsgi/
 categories:
