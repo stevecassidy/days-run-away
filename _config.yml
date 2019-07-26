@@ -1,9 +1,14 @@
-url: http://localhost:8080
+url: https://web.science.mq.edu.au/~cassidy/
 name: stevecassidy
 title:
 description: The Days Run Away...
 
 theme: minimal-mistakes-jekyll
+
+collections:
+  portfolio:
+    output: true
+    permalink: /:collection/:path/
 
 show_excerpts: true
 
@@ -44,7 +49,7 @@ analytics:
 author:
   name             : "Steve Cassidy"
   avatar           : /assets/portfolio.png
-  bio              : "I'm an academic in Computing at Macquarie University"
+  bio              : "Department of Computing, Macquarie University"
   location         : "Sydney, Australia"
   email            : steve.cassidy@mq.edu.au
   twitter          : SteveCassidyMQ
@@ -56,6 +61,8 @@ author:
     - label: "Google Scholar"
       icon: "fab fa-fw fa-leanpub"
       url: "https://scholar.google.com/citations?user=uUa7GZsAAAAJ"
+    - label: "Macquarie Profile"
+      url: "https://researchers.mq.edu.au/en/persons/steve-cassidy"
 
 
 
@@ -161,3 +168,11 @@ defaults:
       comments: # true
       share: true
       related: true
+  # _portfolio
+  - scope:
+      path: "_portfolio"
+      type: portfolio
+    values:
+      layout: single
+      author_profile: false
+      share: true
