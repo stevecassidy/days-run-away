@@ -5,7 +5,6 @@ date: 2002-11-28T13:00:00+00:00
 author: Steve Cassidy
 layout: single
 guid: http://www.ics.mq.edu.au/~cassidy/wordpress/?p=234
-permalink: /2002/11/rdf-model-vs-syntax/
 categories:
   - Uncategorized
 ---

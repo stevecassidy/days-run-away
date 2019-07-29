@@ -4,7 +4,6 @@ title: Sparql Endpoint for Python WSGI
 date: 2008-08-21T22:07:14+00:00
 author: Steve Cassidy
 layout: single
-permalink: /2008/08/sparql-endpoint-for-python-wsgi/
 categories:
   - Uncategorized
 tags:

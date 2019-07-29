@@ -5,7 +5,6 @@ date: 2006-08-23T20:28:09+00:00
 author: Steve Cassidy
 layout: single
 guid: http://www.ics.mq.edu.au/~cassidy/index.php/2006/08/23/transcribed-podcasts-and-audio-books/
-permalink: /2006/08/transcribed-podcasts-and-audio-books/
 categories:
   - Uncategorized
 ---

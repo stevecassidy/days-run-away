@@ -5,7 +5,6 @@ date: 2003-06-25T14:00:00+00:00
 author: Steve Cassidy
 layout: single
 guid: http://www.ics.mq.edu.au/~cassidy/wordpress/?p=225
-permalink: /2003/06/ipaq-video-conferencing/
 categories:
   - Uncategorized
 ---

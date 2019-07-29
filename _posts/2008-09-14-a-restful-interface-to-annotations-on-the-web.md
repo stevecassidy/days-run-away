@@ -4,7 +4,6 @@ title: A RESTful interface to Annotations on the Web
 date: 2008-09-14T22:22:36+00:00
 author: Steve Cassidy
 layout: single
-permalink: /2008/09/a-restful-interface-to-annotations-on-the-web/
 categories:
   - Uncategorized
 tags:

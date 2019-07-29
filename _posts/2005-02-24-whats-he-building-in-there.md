@@ -5,7 +5,6 @@ date: 2005-02-24T13:00:00+00:00
 author: Steve Cassidy
 layout: single
 guid: http://www.ics.mq.edu.au/~cassidy/wordpress/?p=202
-permalink: /2005/02/whats-he-building-in-there/
 categories:
   - Uncategorized
 ---

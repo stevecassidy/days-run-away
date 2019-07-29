@@ -5,7 +5,6 @@ date: 2015-10-21T20:17:44+00:00
 author: Steve Cassidy
 layout: single
 guid: http://web.science.mq.edu.au/~cassidy/wordpress/?p=433
-permalink: /2015/10/galaxy-tool-generating-datasets/
 categories:
   - Uncategorized
 ---

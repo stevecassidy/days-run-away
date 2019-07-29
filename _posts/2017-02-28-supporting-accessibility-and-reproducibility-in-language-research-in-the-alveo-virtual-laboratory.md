@@ -4,7 +4,6 @@ title: Supporting accessibility and reproducibility in language research in the 
 date: 2017-02-28T09:56:57+00:00
 author: Steve Cassidy
 layout: single
-permalink: /2017/02/supporting-accessibility-and-reproducibility-in-language-research-in-the-alveo-virtual-laboratory/
 categories:
   - Language Resources
 ---

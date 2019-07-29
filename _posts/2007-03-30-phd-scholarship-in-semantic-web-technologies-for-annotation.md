@@ -5,7 +5,6 @@ date: 2007-03-30T08:44:36+00:00
 author: Steve Cassidy
 layout: single
 guid: http://www.ics.mq.edu.au/~cassidy/index.php/2007/03/30/phd-scholarship-in-semantic-web-technologies-for-annotation/
-permalink: /2007/03/phd-scholarship-in-semantic-web-technologies-for-annotation/
 categories:
   - Uncategorized
 tags:

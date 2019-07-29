@@ -5,7 +5,6 @@ date: 2003-05-12T14:00:00+00:00
 author: Steve Cassidy
 layout: single
 guid: http://www.ics.mq.edu.au/~cassidy/wordpress/?p=227
-permalink: /2003/05/w3c-rdf-calendar-work/
 categories:
   - Uncategorized
 ---

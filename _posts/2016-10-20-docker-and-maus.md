@@ -5,7 +5,6 @@ date: 2016-10-20T05:48:55+00:00
 author: Steve Cassidy
 layout: single
 guid: http://web.science.mq.edu.au/~cassidy/?p=484
-permalink: /2016/10/docker-and-maus/
 categories:
   - Workflows
 ---

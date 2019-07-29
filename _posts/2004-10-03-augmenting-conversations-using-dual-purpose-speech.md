@@ -5,7 +5,6 @@ date: 2004-10-03T14:00:00+00:00
 author: Steve Cassidy
 layout: single
 guid: http://www.ics.mq.edu.au/~cassidy/wordpress/?p=208
-permalink: /2004/10/augmenting-conversations-using-dual-purpose-speech/
 categories:
   - Uncategorized
 ---

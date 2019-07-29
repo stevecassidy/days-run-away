@@ -5,7 +5,6 @@ date: 2006-07-20T22:24:21+00:00
 author: Steve Cassidy
 layout: single
 guid: http://www.ics.mq.edu.au/~cassidy/index.php/2006/07/20/all-in-the-family/
-permalink: /2006/07/all-in-the-family/
 categories:
   - Uncategorized
 ---

@@ -4,7 +4,6 @@ title: An RDF Realisation of LAF in the DADA Annotation Server
 date: 2010-02-22T13:50:18+00:00
 author: Steve Cassidy
 layout: single
-permalink: /2010/02/an-rdf-realisation-of-laf-in-the-dada-annotation-server/
 categories:
   - Uncategorized
 tags:

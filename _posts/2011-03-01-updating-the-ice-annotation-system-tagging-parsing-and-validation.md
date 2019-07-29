@@ -5,7 +5,6 @@ date: 2011-03-01T10:28:10+00:00
 author: Steve Cassidy
 layout: single
 guid: http://web.science.mq.edu.au/~cassidy/wordpress/?p=350
-permalink: /2011/03/updating-the-ice-annotation-system-tagging-parsing-and-validation/
 categories:
   - Language Resources
 tags:

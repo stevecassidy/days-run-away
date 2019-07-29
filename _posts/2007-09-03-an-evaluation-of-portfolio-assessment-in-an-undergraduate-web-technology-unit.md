@@ -4,7 +4,6 @@ title: An Evaluation of Portfolio Assessment in an Undergraduate Web Technology 
 date: 2007-09-03T10:04:31+00:00
 author: Steve Cassidy
 layout: single
-permalink: /2007/09/an-evaluation-of-portfolio-assessment-in-an-undergraduate-web-technology-unit/
 tags:
   - publication
   - teaching

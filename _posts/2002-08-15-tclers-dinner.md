@@ -5,7 +5,6 @@ date: 2002-08-15T14:00:00+00:00
 author: Steve Cassidy
 layout: single
 guid: http://www.ics.mq.edu.au/~cassidy/wordpress/?p=242
-permalink: /2002/08/tclers-dinner/
 categories:
   - Uncategorized
 ---

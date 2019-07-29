@@ -4,7 +4,6 @@ title: Mobile Apps for Aboriginal Languages
 date: 2016-10-05T03:44:29+00:00
 author: Steve Cassidy
 layout: single
-permalink: /2016/10/mobile-apps-for-aboriginal-languages/
 header:
   image: /wp-content/uploads/2016/09/img_20160913_082434_29531784442_o.jpg
 categories:

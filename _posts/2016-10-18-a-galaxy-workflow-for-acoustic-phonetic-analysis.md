@@ -4,7 +4,6 @@ title: A Galaxy Workflow for Acoustic Phonetic Analysis
 date: 2016-10-18T04:46:53+00:00
 author: Steve Cassidy
 layout: single
-permalink: /2016/10/a-galaxy-workflow-for-acoustic-phonetic-analysis/
 header:
   image: /wp-content/uploads/2016/10/vowel-plot-workflow-1568x740.png
   image_description: "A Galaxy workflow for vowel formant plots"

@@ -5,7 +5,6 @@ date: 2011-02-18T17:32:47+00:00
 author: Steve Cassidy
 layout: single
 guid: http://web.science.mq.edu.au/~cassidy/wordpress/?p=330
-permalink: /2011/02/notes-on-conversion-of-graf-to-rdf/
 categories:
   - Language Resources
 tags:

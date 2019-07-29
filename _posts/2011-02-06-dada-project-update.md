@@ -5,7 +5,6 @@ date: 2011-02-06T20:13:24+00:00
 author: Steve Cassidy
 layout: single
 guid: http://web.science.mq.edu.au/~cassidy/wordpress/?p=323
-permalink: /2011/02/dada-project-update/
 categories:
   - Uncategorized
 tags:

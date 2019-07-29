@@ -5,7 +5,6 @@ date: 2003-08-26T14:00:00+00:00
 author: Steve Cassidy
 layout: single
 guid: http://www.ics.mq.edu.au/~cassidy/wordpress/?p=218
-permalink: /2003/08/xtmpath-xpath-for-topic-maps/
 categories:
   - Uncategorized
 ---

@@ -5,7 +5,6 @@ date: 2002-06-26T14:00:00+00:00
 author: Steve Cassidy
 layout: single
 guid: http://www.ics.mq.edu.au/~cassidy/wordpress/?p=246
-permalink: /2002/06/dasher-text-input-methods/
 categories:
   - Uncategorized
 ---
