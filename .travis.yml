@@ -20,11 +20,10 @@ before_deploy:
   - eval "$(ssh-agent -s)"
   - chmod 600 /tmp/deploy_rsa
   - ssh-add /tmp/deploy_rsa
+  - ssh-keyscan 137.111.92.23 >> ~/.ssh/known_hosts  # this is remus IP address
 deploy:
   provider: script
   skip_cleanup: true
   script: rsync -r --delete-after --quiet $TRAVIS_BUILD_DIR/_site/ cassidy@remus.science.mq.edu.au:html/
   on:
     branch: master
-
-  
