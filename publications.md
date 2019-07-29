@@ -104,7 +104,7 @@ Chi Nguyen, James Dalziel and Steve Cassidy (2008) [Flexible Access Control, Fed
 
 Steve Cassidy and Trevor Johnston (2009)  [_Ingesting the Auslan Corpus into the DADA Annotation Store_](http://www.ling.uni-potsdam.de/acl-lab/law09/pdf/LAW-328.pdf) in Proceedings of the third Linguistic Annotation Workshop (LAW III), Singapore, August 2009.
 
-Steve Cassidy (2010) An RDF Realisation of LAF in the DADA Annotation Server, Proceedings of ISA-5, Hong Kong, January 2010 ([PDF](/wp-content/uploads/2006/07/paper.pdf)).
+Steve Cassidy (2010) An RDF Realisation of LAF in the DADA Annotation Server, Proceedings of ISA-5, Hong Kong, January 2010 ([PDF]({{"/wp-content/uploads/2006/07/paper.pdf"|relative_url}})).
 
 Burnham, Denis, Estival, Dominique, Goecke, Roland, Arciuli, Joanne, Onslow, Marc, Lewis, Trent, Butcher, Andy, Hajek, John, Fazio, Steven, Cox, Felicity, Dale, Robert, Viethen, Jette, Cassidy, Steve, Epps, Julien, Togneri, Roberto, Kinoshita, Yuko. (2011) [Building an audio-visual corpus of Australian English : large corpus collection with an economical portable and replicable Black Box.](http://www.isca-speech.org/archive/interspeech_2011/i11_0841.html) Proceedings of Interspeech 2011
 
