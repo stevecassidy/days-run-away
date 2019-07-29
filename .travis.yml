@@ -1,27 +1,30 @@
 language: ruby
 rvm:
-  - 2.4.1
-
+- 2.4.1
 before_script:
- - chmod +x ./scripts/cibuild # or do this locally and commit
-
-# Assume bundler is being used, therefore
-# the `install` step will run `bundle install` by default.
-script: ./scripts/cibuild
-
+- chmod +x ./scripts/cibuild
+script: "./scripts/cibuild"
 env:
   global:
-  - NOKOGIRI_USE_SYSTEM_LIBRARIES=true # speeds up installation of html-proofer
-
+  - NOKOGIRI_USE_SYSTEM_LIBRARIES=true
 addons:
   apt:
     packages:
     - libcurl4-openssl-dev
-
-sudo: false # route your build to the container-based infrastructure for a faster build
-
-cache: bundler # caching bundler gem packages will speed up build
-
-# Optional: disable email notifications about the outcome of your builds
+sudo: false
+cache: bundler
 notifications:
   email: true
+before_deploy:
+  - openssl aes-256-cbc -K $encrypted_04eb23ffbf70_key -iv $encrypted_04eb23ffbf70_iv -in deploy_rsa.enc -out /tmp/deploy_rsa -d
+  - eval "$(ssh-agent -s)"
+  - chmod 600 /tmp/deploy_rsa
+  - ssh-add /tmp/deploy_rsa
+deploy:
+  provider: script
+  skip_cleanup: true
+  script: rsync -r --delete-after --quiet $TRAVIS_BUILD_DIR/_site/ cassidy@remus.science.mq.edu.au:html/
+  on:
+    branch: master
+
+  
