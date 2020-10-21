@@ -1,3 +1,5 @@
+ruby "2.7.0"
+
 source "https://rubygems.org"
 
 # Hello! This is where you manage which Jekyll version is used to run.
@@ -8,7 +10,7 @@ source "https://rubygems.org"
 #
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
-gem "jekyll", "~> 3.8.6"
+gem "jekyll", "~> 4.1"
 gem "jemoji"
 
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
@@ -32,8 +34,5 @@ install_if -> { RUBY_PLATFORM =~ %r!mingw|mswin|java! } do
   gem "tzinfo-data"
 end
 
-# Performance-booster for watching directories on Windows
-gem "wdm", "~> 0.1.0", :install_if => Gem.win_platform?
-
-gem "html-proofer"
-gem "travis", "~> 1.8.10"
+#gem "html-proofer"
+#gem "travis", "~> 1.8.10"
