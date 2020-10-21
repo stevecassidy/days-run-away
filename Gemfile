@@ -36,3 +36,7 @@ end
 
 #gem "html-proofer"
 #gem "travis", "~> 1.8.10"
+
+# updrade due to security alert
+gem "nokogiri", ">= 1.10.8"
+
