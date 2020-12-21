@@ -1,0 +1,29 @@
+name: Jekyll site CI
+
+on:
+  push:
+    branches: [ master ]
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Install SSH key
+      uses: shimataro/ssh-key-action@v2
+      with:
+        key: ${{ secrets.SSH_KEY }}
+        name: id_rsa
+        known_hosts: ${{ secrets.KNOWN_HOSTS }}
+
+    - name: Build the site in the jekyll/builder container
+      uses: actions/checkout@v2
+      run: |
+        docker run \
+        -v ${{ github.workspace }}:/srv/jekyll -v ${{ github.workspace }}/_site:/srv/jekyll/_site \
+        jekyll/builder:latest /bin/bash -c "chmod 777 /srv/jekyll && jekyll build --future"
+
+    - name: rsync deployment
+      run: rsync -r --delete-after --quiet ${{ github.workspace }}/_site/ steve@stevecassidy.net:webapps/sc_home/
+

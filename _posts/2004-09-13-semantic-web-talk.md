@@ -4,7 +4,7 @@ title: Semantic Web Talk
 date: 2004-09-13T14:00:00+00:00
 author: Steve Cassidy
 layout: single
-guid: http://www.ics.mq.edu.au/~cassidy/wordpress/?p=210
+guid: https://stevecassidy.net/wordpress/?p=210
 categories:
   - Uncategorized
 ---

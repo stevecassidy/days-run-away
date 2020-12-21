@@ -4,7 +4,7 @@ title: 'NIST Speaker Recognition  Evaluations'
 date: 2003-05-08T14:00:00+00:00
 author: Steve Cassidy
 layout: single
-guid: http://www.ics.mq.edu.au/~cassidy/wordpress/?p=229
+guid: https://stevecassidy.net/wordpress/?p=229
 categories:
   - Uncategorized
 ---

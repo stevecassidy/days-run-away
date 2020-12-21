@@ -5,7 +5,7 @@ date: 2006-07-18T22:06:38+00:00
 author: Steve Cassidy
 excerpt: |
 layout: single
-guid: http://www.ics.mq.edu.au/~cassidy/index.php/?page_id=253
+guid: https://stevecassidy.net/index.php/?page_id=253
 ---
 ## Books
 

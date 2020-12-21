@@ -4,7 +4,7 @@ title: XML and Java
 date: 2002-07-03T14:00:00+00:00
 author: Steve Cassidy
 layout: single
-guid: http://www.ics.mq.edu.au/~cassidy/wordpress/?p=244
+guid: https://stevecassidy.net/wordpress/?p=244
 categories:
   - Uncategorized
 ---

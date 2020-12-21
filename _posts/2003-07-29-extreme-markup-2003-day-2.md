@@ -4,7 +4,7 @@ title: 'Extreme Markup 2003: Day 2'
 date: 2003-07-29T14:00:00+00:00
 author: Steve Cassidy
 layout: single
-guid: http://www.ics.mq.edu.au/~cassidy/wordpress/?p=222
+guid: https://stevecassidy.net/wordpress/?p=222
 categories:
   - Uncategorized
 ---

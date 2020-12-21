@@ -4,7 +4,7 @@ title: IPAQ Video Conferencing
 date: 2003-06-25T14:00:00+00:00
 author: Steve Cassidy
 layout: single
-guid: http://www.ics.mq.edu.au/~cassidy/wordpress/?p=225
+guid: https://stevecassidy.net/wordpress/?p=225
 categories:
   - Uncategorized
 ---

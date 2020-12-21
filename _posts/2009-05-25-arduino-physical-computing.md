@@ -4,7 +4,7 @@ title: Arduino & Physical Computing
 date: 2009-05-25T16:57:11+00:00
 author: Steve Cassidy
 layout: single
-guid: http://web.science.mq.edu.au/~cassidy/wordpress/?p=282
+guid: https://stevecassidy.net/wordpress/?p=282
 categories:
   - Uncategorized
 tags:

@@ -4,7 +4,7 @@ title: More RDF Query/Path Stuff
 date: 2003-11-10T13:00:00+00:00
 author: Steve Cassidy
 layout: single
-guid: http://www.ics.mq.edu.au/~cassidy/wordpress/?p=214
+guid: https://stevecassidy.net/wordpress/?p=214
 categories:
   - Uncategorized
 tags:

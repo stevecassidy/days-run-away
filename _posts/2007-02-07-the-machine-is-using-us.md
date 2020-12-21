@@ -4,7 +4,7 @@ title: The Machine is Us/ing Us
 date: 2007-02-07T21:03:43+00:00
 author: Steve Cassidy
 layout: single
-guid: http://www.ics.mq.edu.au/~cassidy/index.php/2007/02/07/the-machine-is-using-us/
+guid: https://stevecassidy.net/index.php/2007/02/07/the-machine-is-using-us/
 categories:
   - Uncategorized
 tags:

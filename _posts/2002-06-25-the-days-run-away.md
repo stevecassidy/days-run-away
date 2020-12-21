@@ -4,7 +4,7 @@ title: 'The days run away...'
 date: 2002-06-25T14:00:00+00:00
 author: Steve Cassidy
 layout: single
-guid: http://www.ics.mq.edu.au/~cassidy/wordpress/?p=248
+guid: https://stevecassidy.net/wordpress/?p=248
 categories:
   - Uncategorized
 ---

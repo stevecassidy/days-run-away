@@ -4,7 +4,7 @@ title: Notes on Conversion of GrAF to RDF
 date: 2011-02-18T17:32:47+00:00
 author: Steve Cassidy
 layout: single
-guid: http://web.science.mq.edu.au/~cassidy/wordpress/?p=330
+guid: https://stevecassidy.net/wordpress/?p=330
 categories:
   - Language Resources
 tags:

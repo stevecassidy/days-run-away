@@ -5,7 +5,7 @@ date: 2017-11-17T13:06:38+00:00
 author: Steve Cassidy
 excerpt: |
 layout: single
-guid: http://web.science.mq.edu.au/~cassidy/?page_id=501
+guid: https://stevecassidy.net/?page_id=501
 ---
 I am always willing to talk to students interested in PhD research in my area.  Macquarie provides excellent scholarships and support for students both local and international.
 

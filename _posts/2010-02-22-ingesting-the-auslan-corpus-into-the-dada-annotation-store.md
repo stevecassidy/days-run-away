@@ -4,7 +4,7 @@ title: Ingesting the Auslan Corpus into the DADA Annotation Store
 date: 2010-02-22T13:48:48+00:00
 author: Steve Cassidy
 layout: single
-guid: http://web.science.mq.edu.au/~cassidy/wordpress/?p=298
+guid: https://stevecassidy.net/wordpress/?p=298
 categories:
   - Uncategorized
 tags:

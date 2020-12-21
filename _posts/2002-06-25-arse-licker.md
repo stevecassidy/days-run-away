@@ -4,7 +4,7 @@ title: 'Arse licker...'
 date: 2002-06-25T14:00:00+00:00
 author: Steve Cassidy
 layout: single
-guid: http://www.ics.mq.edu.au/~cassidy/wordpress/?p=247
+guid: https://stevecassidy.net/wordpress/?p=247
 categories:
   - Uncategorized
 ---

@@ -4,7 +4,7 @@ title: Tcl Matrix Type
 date: 2004-12-16T13:00:00+00:00
 author: Steve Cassidy
 layout: single
-guid: http://www.ics.mq.edu.au/~cassidy/wordpress/?p=205
+guid: https://stevecassidy.net/wordpress/?p=205
 categories:
   - Uncategorized
 ---

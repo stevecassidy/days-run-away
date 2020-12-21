@@ -4,7 +4,7 @@ title: Children's Books
 date: 2002-11-28T13:00:00+00:00
 author: Steve Cassidy
 layout: single
-guid: http://www.ics.mq.edu.au/~cassidy/wordpress/?p=235
+guid: https://stevecassidy.net/wordpress/?p=235
 categories:
   - Uncategorized
 ---

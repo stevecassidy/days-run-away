@@ -4,7 +4,7 @@ title: Augmenting Conversations Using Dual Purpose Speech
 date: 2004-10-03T14:00:00+00:00
 author: Steve Cassidy
 layout: single
-guid: http://www.ics.mq.edu.au/~cassidy/wordpress/?p=208
+guid: https://stevecassidy.net/wordpress/?p=208
 categories:
   - Uncategorized
 ---

@@ -4,7 +4,7 @@ title: Docker and MAUS
 date: 2016-10-20T05:48:55+00:00
 author: Steve Cassidy
 layout: single
-guid: http://web.science.mq.edu.au/~cassidy/?p=484
+guid: https://stevecassidy.net/?p=484
 categories:
   - Workflows
 ---

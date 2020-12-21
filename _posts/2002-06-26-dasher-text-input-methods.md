@@ -4,7 +4,7 @@ title: Dasher, text input methods
 date: 2002-06-26T14:00:00+00:00
 author: Steve Cassidy
 layout: single
-guid: http://www.ics.mq.edu.au/~cassidy/wordpress/?p=246
+guid: https://stevecassidy.net/wordpress/?p=246
 categories:
   - Uncategorized
 ---

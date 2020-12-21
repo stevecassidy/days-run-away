@@ -4,7 +4,7 @@ title: Using Robots to Teach Programming
 date: 2009-01-28T16:13:13+00:00
 author: Steve Cassidy
 layout: single
-guid: http://www.ics.mq.edu.au/~cassidy/?p=276
+guid: https://stevecassidy.net/?p=276
 categories:
   - Uncategorized
 tags:

@@ -4,7 +4,7 @@ title: Overlapping trees in XML
 date: 2002-10-24T14:00:00+00:00
 author: Steve Cassidy
 layout: single
-guid: http://www.ics.mq.edu.au/~cassidy/wordpress/?p=239
+guid: https://stevecassidy.net/wordpress/?p=239
 categories:
   - Uncategorized
 ---

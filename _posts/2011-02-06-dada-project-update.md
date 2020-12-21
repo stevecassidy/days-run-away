@@ -4,7 +4,7 @@ title: DADA Project Update
 date: 2011-02-06T20:13:24+00:00
 author: Steve Cassidy
 layout: single
-guid: http://web.science.mq.edu.au/~cassidy/wordpress/?p=323
+guid: https://stevecassidy.net/wordpress/?p=323
 categories:
   - Uncategorized
 tags:

@@ -4,7 +4,7 @@ title: 'Updating the ICE Annotation System: Tagging, Parsing and Validation'
 date: 2011-03-01T10:28:10+00:00
 author: Steve Cassidy
 layout: single
-guid: http://web.science.mq.edu.au/~cassidy/wordpress/?p=350
+guid: https://stevecassidy.net/wordpress/?p=350
 categories:
   - Language Resources
 tags:

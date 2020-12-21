@@ -4,7 +4,7 @@ title: Galaxy Tool Generating Dataset Collections
 date: 2015-10-21
 author: Steve Cassidy
 layout: single
-guid: http://web.science.mq.edu.au/~cassidy/wordpress/?p=433
+guid: https://stevecassidy.net/wordpress/?p=433
 categories:
   - Uncategorized
 ---
