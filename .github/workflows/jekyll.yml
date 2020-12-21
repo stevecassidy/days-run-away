@@ -17,8 +17,8 @@ jobs:
         name: id_rsa
         known_hosts: ${{ secrets.KNOWN_HOSTS }}
 
+    - uses: actions/checkout@v2
     - name: Build the site in the jekyll/builder container
-      uses: actions/checkout@v2
       run: |
         docker run \
         -v ${{ github.workspace }}:/srv/jekyll -v ${{ github.workspace }}/_site:/srv/jekyll/_site \
