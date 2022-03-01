@@ -5,7 +5,7 @@ date: 2014-03-29T13:36:16+00:00
 author: Steve Cassidy
 excerpt: |
 layout: post
-guid: http://web.science.mq.edu.au/~cassidy/wordpress/?p=388
+guid: https://stevecassidy.net/wordpress/?p=388
 permalink: /?p=388
 categories:
   - Language Resources

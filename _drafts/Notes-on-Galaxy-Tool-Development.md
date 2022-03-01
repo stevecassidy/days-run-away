@@ -5,7 +5,7 @@ date: 2016-08-10T17:10:18+00:00
 author: Steve Cassidy
 excerpt: |
 layout: post
-guid: http://web.science.mq.edu.au/~cassidy/?p=455
+guid: https://stevecassidy.net/?p=455
 permalink: /?p=455
 categories:
   - Uncategorized

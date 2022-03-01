@@ -3,12 +3,7 @@ id: 509
 title: 'Building a Galaxy Tool with OpenSMILE: Part 1 Conda Forge'
 date: 2018-01-12T21:09:38+00:00
 author: Steve Cassidy
-excerpt: |
 layout: post
-guid: http://web.science.mq.edu.au/~cassidy/?p=509
-permalink: /?p=509
-categories:
-  - Uncategorized
 ---
 This post documents my workflow for building a new [Galaxy](https://galaxyproject.org/) tool for speech analysis using the [OpenSMILE](http://audeering.com/technology/opensmile/) toolkit. I hope it will be useful and encourage others to develop tools for speech and language analysis in Galaxy.
 
@@ -89,7 +84,7 @@ Sending the pull request triggers a [Continuous Integration](https://en.wikipedi
 
 The first process to run is the linter, this checks that your recipe is nicely written and has all the required parts.  In my case I was warned about bad spacing of comments and then this problem with the license description (I had tried removing the license line because openSMILE doesn&#8217;t use one of the standard licenses:
 
-[<img class="aligncenter size-full wp-image-518" src="http://localhost:8080/wp-content/uploads/2018/01/condforge-screenshot-lint.png" alt="Conda Forge Lint message" width="798" height="342" srcset="http://localhost:8080/wp-content/uploads/2018/01/condforge-screenshot-lint.png 798w, http://localhost:8080/wp-content/uploads/2018/01/condforge-screenshot-lint-300x129.png 300w, http://localhost:8080/wp-content/uploads/2018/01/condforge-screenshot-lint-768x329.png 768w" sizes="(max-width: 798px) 100vw, 798px" />](http://localhost:8080/wp-content/uploads/2018/01/condforge-screenshot-lint.png)
+![Conda Forge]({{"/wp-content/uploads/2018/01/condforge-screenshot-lint.png"|relative_url}})
 
 If you get a message like this on your pull request you need to revise your project (fix the problem), commit and push again to your repository. The pull request will then see the updated version of your code and re-start the CI process.
 
@@ -98,9 +93,3 @@ The messages from the linter are useful but I got a bit frustrated since I didn&
 Once the linting is done it moves on to running the build on all three platforms.  I&#8217;ve asked it to skip Windows so it will just build on Linux and mac OS.
 
 In this case I hit a wall here. My build failed even though it had worked locally. The error message I got was confusing and I couldn&#8217;t see how to address it.  The only way forward here is to ask for help, which you can do on the [Conda-Forge Gitter channel](https://gitter.im/conda-forge/conda-forge.github.io) where many of the developers hang out and are very helpful.  I got the attention of one expert who was able to help me move forward (I hadn&#8217;t merged with a recent version of the staged-recipes repository so was out of date with the current build system).
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
